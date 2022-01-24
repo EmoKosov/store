@@ -1,0 +1,13 @@
+D:\repos\Store\obj\Debug\netcoreapp3.1\Store.csproj.AssemblyReference.cache
+D:\repos\Store\obj\Debug\netcoreapp3.1\Store.AssemblyInfoInputs.cache
+D:\repos\Store\obj\Debug\netcoreapp3.1\Store.AssemblyInfo.cs
+D:\repos\Store\obj\Debug\netcoreapp3.1\Store.csproj.CoreCompileInputs.cache
+D:\repos\Store\bin\Debug\netcoreapp3.1\Store.exe
+D:\repos\Store\bin\Debug\netcoreapp3.1\Store.deps.json
+D:\repos\Store\bin\Debug\netcoreapp3.1\Store.runtimeconfig.json
+D:\repos\Store\bin\Debug\netcoreapp3.1\Store.runtimeconfig.dev.json
+D:\repos\Store\bin\Debug\netcoreapp3.1\Store.dll
+D:\repos\Store\bin\Debug\netcoreapp3.1\Store.pdb
+D:\repos\Store\obj\Debug\netcoreapp3.1\Store.dll
+D:\repos\Store\obj\Debug\netcoreapp3.1\Store.pdb
+D:\repos\Store\obj\Debug\netcoreapp3.1\Store.genruntimeconfig.cache
